@@ -5,7 +5,7 @@ const WelcomeScreen = () => {
   return (
     <>
       <div className="flex items-center justify-center h-screen bg-gray-100">
-        <div className="w-80 bg-white p-6 rounded-lg shadow-md">
+        <div className="w-96 bg-white p-6 rounded-lg shadow-md">
           <div className="flex flex-col items-center justify-end h-[90vh]">
             <h1 className="text-2xl font-bold gidole text-gray-900">
               Welcome to PopX
